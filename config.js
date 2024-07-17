@@ -28,6 +28,7 @@ global.shizokeys = 'shizo'
 global.packname = process.env.BOT_NAME || 'OREO-BOT 🥵'
 global.stkpack = process.env.BOT_NAME || 'OREO-BOT 🥵'
 global.stkowner = process.env.OWNER_NAME || '© Shizo The Techie'
+global.sessionid = process.env.SESSION_ID || ''
 
 //Watermark
 global.maker = process.env.MAKER || 'Made with ❤️ by OREO-BOT'
